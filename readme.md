@@ -28,3 +28,24 @@ Rithm Bootcamp ($17,000)
 
 https://create-react-app.dev/
 
+# npm install
+
+```
+npm install axios jwt-decode moment react-moment react-redux react-router-dom redux redux-thunk
+```
+
+# create folders in src folder
+
+components
+
+containers
+
+hocs 
+
+images
+
+services
+
+store, all of our redux related logic
+
+
